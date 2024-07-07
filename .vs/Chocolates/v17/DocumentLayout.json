@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\Chocolates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|c:\\xampp\\htdocs\\chocolates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|c:\\xampp\\htdocs\\chocolates\\controllers\\chocolatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|solutionrelative:controllers\\chocolatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|c:\\xampp\\htdocs\\chocolates\\models\\dbchocolatescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|solutionrelative:models\\dbchocolatescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240707044505_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240707044505_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240707044355_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240707044355_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|c:\\xampp\\htdocs\\chocolates\\models\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|solutionrelative:models\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240707042350_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240707042350_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240707042255_updatemodel5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240707042255_updatemodel5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|c:\\xampp\\htdocs\\chocolates\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|c:\\xampp\\htdocs\\chocolates\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|solutionrelative:controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|c:\\xampp\\htdocs\\chocolates\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706214815_updatemodel4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240706214815_updatemodel4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706211520_updatemodel3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240706211520_updatemodel3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706210706_jsonignore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240706210706_jsonignore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706210024_updatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240706210024_updatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706204730_seedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240706204730_seedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706204234_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240706204234_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706190352_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240706190352_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|c:\\xampp\\htdocs\\chocolates\\chocolates.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|solutionrelative:chocolates.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706190212_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240706190212_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|c:\\xampp\\htdocs\\chocolates\\chocolates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC26FEF9-CEED-4F4B-9BBA-31FDB5B23375}|Chocolates.csproj|solutionrelative:chocolates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbChocolatesContext.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Models\\DbChocolatesContext.cs",
+              "RelativeDocumentMoniker": "Models\\DbChocolatesContext.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Models\\DbChocolatesContext.cs",
+              "RelativeToolTip": "Models\\DbChocolatesContext.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFEAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:47:40.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChocolatesController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Controllers\\ChocolatesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChocolatesController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Controllers\\ChocolatesController.cs",
+              "RelativeToolTip": "Controllers\\ChocolatesController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAuwIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T19:01:44.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240707044505_initial.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240707044505_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240707044505_initial.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240707044505_initial.cs",
+              "RelativeToolTip": "Migrations\\20240707044505_initial.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T04:45:05.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240707042350_Initial.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240707042350_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240707042350_Initial.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240707042350_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240707042350_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T04:23:50.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:58:54.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240707042255_updatemodel5.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240707042255_updatemodel5.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240707042255_updatemodel5.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240707042255_updatemodel5.cs",
+              "RelativeToolTip": "Migrations\\20240707042255_updatemodel5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T04:22:55.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240707044355_seeddata.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240707044355_seeddata.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240707044355_seeddata.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240707044355_seeddata.cs",
+              "RelativeToolTip": "Migrations\\20240707044355_seeddata.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T04:43:55.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chocolate.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Models\\Chocolate.cs",
+              "RelativeDocumentMoniker": "Models\\Chocolate.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Models\\Chocolate.cs",
+              "RelativeToolTip": "Models\\Chocolate.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:45:16.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwBkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T19:01:01.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-06T18:58:21.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240706211520_updatemodel3.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706211520_updatemodel3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240706211520_updatemodel3.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706211520_updatemodel3.cs",
+              "RelativeToolTip": "Migrations\\20240706211520_updatemodel3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T21:15:20.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240706214815_updatemodel4.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706214815_updatemodel4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240706214815_updatemodel4.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706214815_updatemodel4.cs",
+              "RelativeToolTip": "Migrations\\20240706214815_updatemodel4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T21:48:15.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:42:39.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240706210024_updatemodel.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706210024_updatemodel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240706210024_updatemodel.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706210024_updatemodel.cs",
+              "RelativeToolTip": "Migrations\\20240706210024_updatemodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T21:00:24.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240706210706_jsonignore.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706210706_jsonignore.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240706210706_jsonignore.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706210706_jsonignore.cs",
+              "RelativeToolTip": "Migrations\\20240706210706_jsonignore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T21:07:06.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240706204730_seedData.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706204730_seedData.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240706204730_seedData.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706204730_seedData.cs",
+              "RelativeToolTip": "Migrations\\20240706204730_seedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T20:47:30.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240706204234_Initial.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706204234_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240706204234_Initial.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706204234_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240706204234_Initial.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T20:42:34.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240706190352_Initial.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706190352_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240706190352_Initial.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706190352_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240706190352_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T19:03:52.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240706190212_Initial.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706190212_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240706190212_Initial.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Migrations\\20240706190212_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240706190212_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T19:02:12.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Chocolates.http",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Chocolates.http",
+              "RelativeDocumentMoniker": "Chocolates.http",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Chocolates.http",
+              "RelativeToolTip": "Chocolates.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-06T18:58:21.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Chocolates.csproj",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Chocolates\\Chocolates.csproj",
+              "RelativeDocumentMoniker": "Chocolates.csproj",
+              "ToolTip": "C:\\xampp\\htdocs\\Chocolates\\Chocolates.csproj",
+              "RelativeToolTip": "Chocolates.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-06T18:41:56.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
